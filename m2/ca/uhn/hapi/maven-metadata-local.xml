@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ca.uhn</groupId>
+  <artifactId>hapi</artifactId>
+  <versioning>
+    <release>hapi-structures-v26</release>
+    <versions>
+      <version>hapi-examples</version>
+      <version>hapi-structures-v231</version>
+      <version>hapi-structures-v251</version>
+      <version>hapi-structures-v26</version>
+    </versions>
+    <lastUpdated>20250117184859</lastUpdated>
+  </versioning>
+</metadata>

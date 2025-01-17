@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.marc</groupId>
+  <artifactId>shic</artifactId>
+  <versioning>
+    <release>shic-xds</release>
+    <versions>
+      <version>shic-atna</version>
+      <version>shic-cda</version>
+      <version>shic-xds</version>
+    </versions>
+    <lastUpdated>20250117184905</lastUpdated>
+  </versioning>
+</metadata>

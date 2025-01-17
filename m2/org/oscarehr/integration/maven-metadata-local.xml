@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.oscarehr</groupId>
+  <artifactId>integration</artifactId>
+  <versioning>
+    <release>ebs</release>
+    <versions>
+      <version>ebs</version>
+    </versions>
+    <lastUpdated>20250117184909</lastUpdated>
+  </versioning>
+</metadata>

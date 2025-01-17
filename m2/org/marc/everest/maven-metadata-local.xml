@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.marc</groupId>
+  <artifactId>everest</artifactId>
+  <versioning>
+    <release>everest-rmim-uv-cdar2</release>
+    <versions>
+      <version>everest-core</version>
+      <version>everest-formatters-xml-dt-r1</version>
+      <version>everest-rmim-uv-cdar2</version>
+    </versions>
+    <lastUpdated>20250117184903</lastUpdated>
+  </versioning>
+</metadata>

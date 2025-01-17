@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.oscarehr</groupId>
+  <artifactId>myoscar_server</artifactId>
+  <versioning>
+    <release>myoscar_server_client_stubs</release>
+    <versions>
+      <version>myoscar_server_client_stubs</version>
+    </versions>
+    <lastUpdated>20250117184910</lastUpdated>
+  </versioning>
+</metadata>
