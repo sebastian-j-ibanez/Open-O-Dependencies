@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Jan 17 14:18:34 EST 2025
-4.3.1-cds_hrm-4.3.1.jar.jar>=
-4.3.1-cds_hrm-4.3.1.jar.pom>=
+#Fri Jan 17 14:18:32 EST 2025
+hapi-hapi-structures-v21.jar>=
+hapi-hapi-structures-v21.pom>=
